@@ -1,0 +1,5 @@
+c:\users\apple\documents\visual studio 2010\Projects\s1011213_Assignment4_5\s1011213_Assignment4_5\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\apple\documents\visual studio 2010\Projects\s1011213_Assignment4_5\s1011213_Assignment4_5\bin\Debug\s1011213_Assignment4_5.exe
+c:\users\apple\documents\visual studio 2010\Projects\s1011213_Assignment4_5\s1011213_Assignment4_5\bin\Debug\s1011213_Assignment4_5.pdb
+c:\users\apple\documents\visual studio 2010\Projects\s1011213_Assignment4_5\s1011213_Assignment4_5\obj\x86\Debug\s1011213_Assignment4_5.exe
+c:\users\apple\documents\visual studio 2010\Projects\s1011213_Assignment4_5\s1011213_Assignment4_5\obj\x86\Debug\s1011213_Assignment4_5.pdb
